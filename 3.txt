@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 DONT CHANGE THIS
+=======
+feature 3
+>>>>>>> 70d70ac80e7e44fca11df608a711419ad26d7817
